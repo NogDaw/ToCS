@@ -1,0 +1,9 @@
+// if (Ak) < ((Ad)) then (L) + 2 -> L else (L)+1 -> L - skip one instruction
+ROZKAZ PGM;
+czyt wys wei il;
+wyad wea;
+czyt wys weja weak ode;
+JEZELI Z TO @LP1 GDY NIE @LP2;
+@LP1 il KONIEC;
+@LP2 il il;
+wyl wea;

@@ -1,0 +1,20 @@
+------
+TASK 1:
+I. (Ak) - ((L)) -> Ak
+II. (Ak) shl 1 -> 0
+Sample values: (L) = 1, ((L)) = (1) = 5, (Ak) = 10
+-------
+1. wyl wea
+//(L) -> A so (A) = 1
+2. czyt wys weja weak ode
+//((L)) - (Ak) -> so (Ak) = 5
+3. wyak weja weak dod
+// (Ak) + (Ak) -> Ak so (Ak) = 10 this multiplies the Acumulator by 2 which is equivalent to shifting it left by one 
+4. wyak wes
+//(Ak) -> S so (S) = 10
+5. wyak weja weak ode
+//(Ak) - (Ak) -> Ak so (Ak) = 0
+6. wyak sa wea
+//(Ak) -> A so (A) = 0
+7. pisz
+//(S) -> 0 so (o) = 10
