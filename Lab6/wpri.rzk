@@ -1,0 +1,10 @@
+//WPR with interupption
+ROZKAZ WPRI;
+czyt wys wei il;
+start wyak weja ode weak eni;
+@interrupt JEZELI INT TO @przerw GDY NIE @czekaj;
+@czekaj wyg weja ode weak JEZELI Z to @dalej GDY NIE @interrupt;
+@dalej wyrb weja przep weak wyl wea KONIEC;
+@przerw wyrb weja przep weak dws;
+wyls wes wyws wea;
+pisz wyap wel wea rint;

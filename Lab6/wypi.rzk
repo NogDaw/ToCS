@@ -1,0 +1,11 @@
+//WYP with interruption
+ROZKAZ WYPI;
+czyt wys wei il;
+wyak weja ode weak wes werb start eni;
+@interrupt JEZELI INT TO @przerw GDY NIE @czekaj;
+@czekaj wyg weja ode weak JEZELI Z TO @dalej GDY NIE @interrupt;
+@dalej wys weja przep weak wyl wea KONIEC;
+@przerw wys weja przep weak dws;
+wyls wes wyws wea;
+pisz wyap wel wea rint;
+
